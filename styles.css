@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+table{
+	width: 100%;
+	
+}
+thead{
+	text-align: left;
+	background: crimson;
+	
+}
+tbody{
+	text-align: right;
+	
+}
+table, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+#t2{
+	background: lightcoral
+}
+#t1{
+	background: lightpink
+}
+#t3{
+	background:lightgrey;
+}
